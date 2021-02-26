@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 
 def main():
-    print("nice")
     return 0
 
 main()
