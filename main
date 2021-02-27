@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
 def main():
-    return 0
+    return 1
 
 main()
